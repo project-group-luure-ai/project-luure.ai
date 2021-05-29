@@ -66,7 +66,7 @@ for file in filename:
                         sys.exit("Termination!!!")
                     status='error'
                     pass
-```<br><br>
+```
 # pdf_to_components
 This script is used to scrape pdf files. The user needs to enter a file with its full location. The script find the file amd using different libraries takes the pdf apart to retreive non inline images, tables and text from the pdf.
 # Modules to be installed 

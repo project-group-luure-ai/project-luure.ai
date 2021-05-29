@@ -13,7 +13,6 @@ while(status=='not ok'):
     if not filename:
         status='not ok'
         print("The folder doesn't exist!!Check the input and try again...\n0 for termination")
-print(filename)
 f= []
 for (dirpath, dirnames, filenames) in os.walk(directory):
     f.extend(filenames)

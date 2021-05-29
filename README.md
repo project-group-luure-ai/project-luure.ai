@@ -1,8 +1,8 @@
 # project-luure.ai
 The project's 3 primary scripts.<br>
-        +  auto file sort.py<br>
-        +  file_sort.py<br>
-        +  pdf_to_components.py<br>
+* auto file sort.py
+* file_sort.py
+* pdf_to_components.py<br>
 # auto file sort.py
 The auto file sort.py is a script to sort the files in a directory according to its extension. new folders are created for each new extension encountered in the directory.
 Eg:The file named demo.txt will moved to the folder named txt in the current directory.<br><br>
